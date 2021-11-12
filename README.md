@@ -1,2 +1,2 @@
-# .github
-Racing-Commander: Build your own self-driving RC car
+# RACING COMMANDER
+Racing Commander: Build your own self-driving RC car
